@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+
+.nav-scroller nav{
+
+	margin-top: 10px;
+	text-decoration: none;
+
+}
+.nav-scroller nav a:hover, a:active{
+
+	text-decoration: none;
+
+}
+
+#userName{
+
+	float: right;
+}
